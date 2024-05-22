@@ -1,7 +1,7 @@
 .main{
   position: absolute;
   margin-top: 12%;
-  margin-left: 5%;
+  margin-left: 2%;
   width: 90%;
   justify-content: center;
   align-items: center;
@@ -12,7 +12,7 @@
   display: flex;
   flex-direction: row;
   justify-content:space-around;
-  gap: 20px;
+  gap: 15px;
 }
 
 .botao{
@@ -20,6 +20,6 @@
     font-size: 16px;
     position: relative;
     display: flex;
-    margin-left: 47%;
+    margin-left: 50%;
     margin-top: 2%;
 }
