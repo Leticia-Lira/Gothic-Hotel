@@ -30,17 +30,20 @@ export default function Home(){
        </div>
        </Link>
 
-      
+       <Link href="/quarto">
        <div className={styles.imagem}>
        <Image src="/imagens/quarto.jpg"
        width={250}
-       height={250}/></div>
+       height={250}/>
+       </div>
+       </Link>
        
-
+      <Link href="/cozinha">
        <div className={styles.imagem}>
        <Image src="/imagens/cozinha.jpg"
        width={250}
        height={250}/></div>
+       </Link>
       </div>
 
       <Foot/>
