@@ -1,0 +1,25 @@
+.main{
+  position: absolute;
+  margin-top: 12%;
+  margin-left: 5%;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.imagens{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  gap: 20px;
+}
+
+.botao{
+    color:#586673;
+    font-size: 16px;
+    position: relative;
+    display: flex;
+    margin-left: 47%;
+    margin-top: 2%;
+}

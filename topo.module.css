@@ -1,0 +1,17 @@
+.topo_container{
+    position: fixed;
+    display: flex;
+    flex-direction:column;
+    margin-top: -9%;
+    margin-left: 36%;
+    background-color: none;
+}
+
+.topo_container h1{
+    font-size: 40px;
+    font-family: 'Sedan';
+    color:#324031;
+}
+.topo_container p{
+    color: #736f40ab;
+}

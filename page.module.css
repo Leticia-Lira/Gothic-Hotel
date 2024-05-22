@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+
+.main{
+  position: absolute;
+  margin-top: 12%;
+  margin-left: 5%;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container_imagens {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  gap: 20px;
+}
+
+
+

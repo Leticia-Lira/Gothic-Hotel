@@ -1,0 +1,12 @@
+.rodape_container{
+    
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    margin-top: 14%;
+    margin-left: 37%;
+}
+
+.rodape_container h4{
+    font-size: 14px;
+}
